@@ -1,5 +1,6 @@
 # ConsumerAdHoc-SQL-PowerBI
 [Link to Challenge](https://codebasics.io/challenge/codebasics-resume-project-challenge/7)
+
 [Link to Presentation Video]()
 
 ## Problem Statement
